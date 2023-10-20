@@ -1,0 +1,12 @@
+p{
+    color: Blue;
+}
+
+button{
+    border-width: 2px;
+    border-style: groove;
+    border-color: blue;
+    border-radius: 25px ; 
+
+}
+
